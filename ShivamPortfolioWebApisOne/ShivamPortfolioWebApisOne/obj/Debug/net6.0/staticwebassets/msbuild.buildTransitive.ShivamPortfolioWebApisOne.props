@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ShivamPortfolioWebApisOne.props" />
+</Project>
